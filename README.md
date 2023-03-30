@@ -1,2 +1,2 @@
 # Ecar Finans
-### (Ecarfinans)[https://ecarfinans.uz]
+(Ecarfinans)[https://ecarfinans.uz]
